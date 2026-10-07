@@ -65,6 +65,36 @@ logic building, and problem-solving skills.
 - Solve coding problems independently
 - Prepare for technical interviews
 - Build consistent coding habits
+  ## 🗺️ DSA Roadmap
+
+### Java Fundamentals
+- [x] Basics
+- [x] Conditionals
+- [x] Loops
+- [x] Methods
+- [x] 1D Arrays
+- [x] Linear Search
+- [ ] 2D Arrays
+- [ ] Binary Search
+
+### Problem Solving
+- [ ] Strings
+- [ ] Recursion
+- [ ] Sorting
+- [ ] Hashing
+
+### Data Structures
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Trees
+- [ ] Heap
+- [ ] Graphs
+
+### Advanced DSA
+- [ ] Greedy Algorithms
+- [ ] Dynamic Programming
+- [ ] Backtracking
 
 ## 💻 Language
 
