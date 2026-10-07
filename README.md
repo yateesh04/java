@@ -33,6 +33,30 @@ fundamentals and problem-solving skills.
 | Recursion | ⏳ Upcoming |
 | Sorting | ⏳ Upcoming |
 
+## 🧩 Practice
+
+I practice Java problems to improve my programming fundamentals,
+logic building, and problem-solving skills.
+
+### Topics Practiced
+
+- Basic input/output
+- Conditional statements
+- Loops
+- Methods
+- Array operations
+- Array reversal
+- Maximum and minimum elements
+- Second largest element
+- Duplicate elements
+- Unique elements
+- Array rotation
+- Moving zeros to the end
+- Linear search
+- Search in range
+- String search
+- 2D array problems
+
 ## 🎯 Goals
 
 - Strengthen Java fundamentals
